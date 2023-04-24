@@ -1,2 +1,2 @@
-# react-portfolio
-Portfolio website built with React.js &amp;&amp; Tailwindcss
+My first take on building my own portfolio website from scratch using React.js and Tailwindcss. 
+Let the games begin!
