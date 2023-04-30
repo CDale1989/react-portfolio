@@ -24,7 +24,7 @@ export const projects = [
   
 ];
 
-export const skills = ["HTML5", "CSS","Javascript","React.js","Bootstrap","TailwindCSS","MUI"];
+export const skills = ["HTML5", "CSS3","Javascript","React.js","Bootstrap","TailwindCSS","MUI"];
 
 
 

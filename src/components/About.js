@@ -62,8 +62,7 @@ function About() {
           <p className="mb-8 leading-relaxed">
             I've went through many challenges along the way but one thing has
             never changed, my ability to always push through the doubts and
-            restrictions that we constantly place on ourselves. Chase your
-            dreams or spend a lifetime running from your regrets.
+            restrictions that we constantly place on ourselves. 
           </p>
           <div className="flex justify-center">
             <a

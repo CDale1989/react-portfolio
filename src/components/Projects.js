@@ -9,10 +9,10 @@ function Projects() {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've built
+            Check out some of the Apps I've built!
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Text here
+            This is a list of some of the applications that I have built. Have a look around. 
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
